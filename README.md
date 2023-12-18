@@ -43,6 +43,7 @@ Through the workforce readiness system, the most important thing that I learned 
 - Job shadowing
 - Conferences
 - Professional Organizations
+
 Through this EPIC course, we got the opportunity to visit the office and warehouse of the Denver-based computer company, System76. In this tour, we were able to see the behind the scenes aspects of producing and optimizing the products, as well as the front end aspects of customer service. System76 is an incredible company, which is founded on the idea of being completely open source. I thought that it was incredible that a company with this business model can be so successful.
 
 ---
