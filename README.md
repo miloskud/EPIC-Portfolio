@@ -47,19 +47,29 @@ Through this EPIC course, we got the opportunity to visit the office and warehou
 
 ---
 ## Projects: 
--  Morse Code - *link to your repo*
-	- Describe the project and it's purpose
-	- Describe what skills you used and what you learned during this project
 - Final Project - https://github.com/miloskud/Tic-Tac-Toe-Project
 	 - Describe the project and it's purpose
+For my final project, I knew that I wanted to do something that I could have fun with, and that I would personally like to have for myself. For this reason, I made a miniature game of Tic Tac Toe with a few twists. 1. It is played on a mitiature screen with a 3 button control system. 2. Instead of the traditional game of Tic-Tac-Toe, I decided to make it a 5x5 version that I have been having fun playing recently with my friends. This version of Tic-Tac-Toe requires 4 in a row to win. I have found that this version is significantly more engaging and exciting. There are a variety of traps that can be done, which will garuntee a win if not caught by your opponent.
 
 	- Describe what skills you used and what you learned during this project
 
-
+The most important skill that I had to use for this project was time management. I had a fairly limited timeframe to complete a fairly ambitions project. For this reason, it was very necessary that I stayed on task and used my time wisely. Without this skill, my project likely would be unfinished. Some other skills that I needed were perceverance, the ability to solve problems, and a general knowledge of coding in python.
 
 
 ---
 
 ## Education
+
+- 4 Years at sandburg elementary school
+- 5 Years at STEM School Highlands Ranch
+- 3.5 Years at Heritage High School
 ## Awards and Certifications
+
+- 3 Year Varsity Letterman for Hockey and academics
+- National Honor Society member
 ## Skills
+
+- Fairly experienced in Python and Java
+- Good problem solver
+- Athletic
+- Persistant
