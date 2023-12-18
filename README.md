@@ -11,7 +11,7 @@ Email: milos508@lpsk12.org
 ## About Me
 * Tell your site viewers more about yourself.
 * What skills, talents, and knowledge do you have? What do you like learning about?
-* 
+
 I am Milo Skudlarczyk, and I am a senior at Heritage High School. I have been interested in computers and computer science for most of my life. I started to do basic coding when I was in 6th grade, and built my first computer in 9th grade. In addition to computers, I am also interested in reading. I also participate in varsity hockey and mountain biking. These sports have helped me to gain perseverance, which is a necessary skill in the computer science field.
 ### Strengths
 - What are some of your strengths?
@@ -43,8 +43,8 @@ Through the workforce readiness system, the most important thing that I learned 
 - Job shadowing
 - Conferences
 - Professional Organizations
-
 Through this EPIC course, we got the opportunity to visit the office and warehouse of the Denver-based computer company, System76. In this tour, we were able to see the behind the scenes aspects of producing and optimizing the products, as well as the front end aspects of customer service. System76 is an incredible company, which is founded on the idea of being completely open source. I thought that it was incredible that a company with this business model can be so successful.
+
 ---
 ## Projects: 
 -  Morse Code - *link to your repo*
